@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Colab</dc:creator>
+    <dc:title>&amp;#x003C;img src=&quot;colablogo.png&quot; alt=&quot;colablogo.png&quot; title=&quot;colablogo&quot; width=&quot;504&quot; height=&quot;133&quot;/&amp;#x003E;&amp;#x003C;br&amp;#x003E;Python Basic 2 Test</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>7</version>
+
+<data>
+<title>&amp;#x003C;img src=&quot;colablogo.png&quot; alt=&quot;colablogo.png&quot; title=&quot;colablogo&quot; width=&quot;504&quot; height=&quot;133&quot;/&amp;#x003E;&amp;#x003C;br&amp;#x003E;Python Basic 2 Test</title>
+
+<timer><seconds>1800</seconds><include-timer>1</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>Data comparison is essential in programming. Comparison tests whether the condition is true or false. There are some operators for comparing data.&amp;#x003C;br&amp;#x003E;
+equal == &amp;#x003C;br&amp;#x003E;
+not equal != &amp;#x003C;br&amp;#x003E;
+more &amp;#x003E; &amp;#x003C;br&amp;#x003E;
+fewer &amp;#x003C; &amp;#x003C;br&amp;#x003E;
+more or equal &amp;#x003E;= &amp;#x003C;br&amp;#x003E;
+fewer or equal &amp;#x003C;= &amp;#x003C;br&amp;#x003E;
+Which one from below condition will return True</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>10 &amp;#x003E; 10</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>25 &amp;#x003E;= 26</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>10 &amp;#x003C;= 10</text><feedback>Correct</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Which one from below condition will return False</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&apos;a&apos; == &apos;A&apos;</text><feedback>Correct</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>1 == 1</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>10 != &quot;10&quot;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>x = 20 &amp;#x003C;br&amp;#x003E;
+y = 20.0 &amp;#x003C;br&amp;#x003E;
+x == y</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>True</text><feedback>Correct</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>False</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>In many cases we need to compare our data with two conditions. In that case, we need to use logical operator and, or and not. Choose more than one correct statement about logical operator and.</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>4</question-type><answers><answer><text>and will return True when both conditions are true</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>and will return True when one of the conditions is False</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>and will return False when one of the conditions is False</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers><must-select-all>1</must-select-all></question-record><question-record><question>Choose more than one correct statement about logical operator or.</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>4</question-type><answers><answer><text>or will return True when both conditions are True</text><feedback>Correct</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>or will return True when one of conditions is True</text><feedback>Correct</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>or will return False when both conditions are true</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers><must-select-all>1</must-select-all></question-record><question-record><question>Logical operator not will invert any result. What is the result from the following:&amp;#x003C;br&amp;#x003E;
+not(not(not(False)))</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>True</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>False</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>What is the result?&amp;#x003C;br&amp;#x003E;
+&amp;#x003C;table style=&quot;border-style: solid; border-width: 1px; &quot;&amp;#x003E;&amp;#x003C;tbody&amp;#x003E;
+&amp;#x003C;tr&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;No&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;Condition 1&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;Operator&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;Condition 2&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;Result&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;/tr&amp;#x003E;
+&amp;#x003C;tr&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;1&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;True&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;and&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;True&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;?&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;/tr&amp;#x003E;
+&amp;#x003C;tr&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;2&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;True&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;and&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;False&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;?&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;/tr&amp;#x003E;
+&amp;#x003C;tr&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;3&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;False&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;and&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;False&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;?&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;/tr&amp;#x003E;
+&amp;#x003C;tr&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;4&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;True&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;or&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;True&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;?&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;/tr&amp;#x003E;
+&amp;#x003C;tr&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;5&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;True&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;or&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;False&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;?&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;/tr&amp;#x003E;
+&amp;#x003C;tr&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;6&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;False&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;or&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;False&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;td style=&quot;padding: 2px; margin: 2px; border-style: solid; border-width: 1px; &quot;&amp;#x003E;?&amp;#x003C;/td&amp;#x003E;
+&amp;#x003C;/tr&amp;#x003E;
+&amp;#x003C;/tbody&amp;#x003E;&amp;#x003C;/table&amp;#x003E;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>1.True, 2.False, 3.False, 4.True, 5.True, 6.False</text><feedback>Correct</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>1.True, 2.True, 3.False, 4.True, 5.False, 6.False</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>1.True, 2.False, 3.False, 4.True, 5.False, 6.False</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Which one from the following statement is false&amp;#x003C;br&amp;#x003E;
+orange = 6&amp;#x003C;br&amp;#x003E;
+apple = 5&amp;#x003C;br&amp;#x003E;
+banana = 7&amp;#x003C;br&amp;#x003E;
+</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>orange &amp;#x003C; banana and orange &amp;#x003E; apple</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>banana &amp;#x003C; apple + orange</text><feedback>Correct</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>apple &amp;#x003C; banana</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Which one from the following if statement is correct?</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;br&amp;#x003E;
+if condition = True:
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspdo_this
+else:&amp;#x003C;br&amp;#x003E;
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspdo_that</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;br&amp;#x003E;
+if condition == True
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspdo_this
+else:&amp;#x003C;br&amp;#x003E;
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspdo_that</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;br&amp;#x003E;
+if condition == True:
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspdo_this
+else:&amp;#x003C;br&amp;#x003E;
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspdo_that</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Which one is correct?</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;br&amp;#x003E;
+If condition1 &amp;#x003E; condition2:
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspdo_this
+elif condition1 &amp;#x003C; condition3:
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspdo_that
+else do_another_thing</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;br&amp;#x003E;
+if condition1 &amp;#x003E; condition2:
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspdo_this
+elif condition1 &amp;#x003C; condition3:
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspdo_that
+else: 
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspdo_another_thing</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;br&amp;#x003E;
+if condition1 &amp;#x003E; condition2:
+do_this
+elif condition1 &amp;#x003C; condition3:
+do_that
+else: 
+do_another_thing</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Code branch allows computer to choose when a condition is true or false.&amp;#x003C;br&amp;#x003E;
+limit = 100
+speed = 120
+
+if speed &amp;#x003E; limit:&amp;#x003C;br&amp;#x003E;
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&quot;over limit&quot;)
+else:&amp;#x003C;br&amp;#x003E;
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&quot;within limit&quot;)
+
+The result of that code branch will be &quot;over limit&quot;, why?</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>if speed &amp;#x003E; limit returns true</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>if speed &amp;#x003E; limit returns false</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>else returns true</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Complete this code&amp;#x003C;br&amp;#x003E;
+score = 90
+passing_limit=90
+
+if score __ passing_limit:&amp;#x003C;br&amp;#x003E;
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&quot;passed&quot;)
+else:&amp;#x003C;br&amp;#x003E;
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&quot;failed&quot;)
+
+Result: failed</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>2</question-type><answers><answer><text>&amp;#x003E;</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>name = &apos;alice&apos;&amp;#x003C;br&amp;#x003E;
+if name == &apos;Alice&apos;:&amp;#x003C;br&amp;#x003E;
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&apos;Hi, Alice.&apos;)
+
+what is the output?</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&quot;Alice&quot;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&quot;alice&quot;</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>no result</text><feedback>Correct</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Loop is used to repeat the same sequential process in order to shorten the code and make it readable. What is the difference between for loop and while loop?</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;br&amp;#x003E;
+for loop will repeat series of syntax for specific number of repetition. while loop will repeat the syntax forever</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;br&amp;#x003E;
+for loop will repeat series of syntax for specific number of repetition. while loop may repeat the syntax forever</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;br&amp;#x003E;
+for loop will repeat series of syntax for specific number of repetition. while loop may repeat the syntax forever or up until a specific condition is true</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Fill in the missing blank:&amp;#x003C;br&amp;#x003E;
+for i in _____(5):
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&quot;hello&quot;)</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>2</question-type><answers><answer><text>range</text><feedback>Correct</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>&apos;i&apos; is used widely when writing a for loop. what does &apos;i&apos; mean?</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>iteration</text><feedback>Correct</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>identifier</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>item</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>For loop can be used for iterable objects such as list, tuple, string and range. Then For loop needs a variable to store the data from iterated object. Look at the example below:&amp;#x003C;br&amp;#x003E;
+
+for i in range(10):
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(i)
+
+On that code, what is the iterable objects?&amp;#x003C;br&amp;#x003E;
+And what is variable that store the iterated value?</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;br&amp;#x003E;
+range is the iterable value
+i is the variable that store the iterated object</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;br&amp;#x003E;
+range is the iterable object
+i is the variable that store the iterated value</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;br&amp;#x003E;
+range is the iterable object
+i is the iterated object</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Fill in the missing blank:&amp;#x003C;br&amp;#x003E;
+text=&quot;Python&quot;
+for i in ____:
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(i)
+
+Output:
+P
+y
+t
+h
+o
+n</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>2</question-type><answers><answer><text>text</text><feedback>Correct</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Output:
+*
+**
+***
+****
+*****
+
+Which the correct loop will make the output?</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;br&amp;#x003E;
+for i in range(5):
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(i*&apos;*&apos;)</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;br&amp;#x003E;
+for i in range(6):
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(i**)</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;br&amp;#x003E;
+for i in range(6):
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(i*&apos;*&apos;)</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Output:
+|
+*
+|
+**
+|
+***
+|
+****
+|
+*****
+|
+Which the correct loop will make the output?</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;br&amp;#x003E;
+for i in range(5):
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(i*&apos;*&apos;)
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&apos;|&apos;)</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;br&amp;#x003E;
+for i in range(6):
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(i*&apos;*&apos;)
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&apos;|&apos;)</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;br&amp;#x003E;
+for i in range(6):
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(i*&apos;*&apos;)
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(|)</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Output:
+****
+****
+****
+****
+
+Fill in the blank:&amp;#x003C;br&amp;#x003E;
+for i in range(__+1):
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&apos;*&apos;*__)</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>2</question-type><answers><answer><text>4</text><feedback>Correct</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Output:
+python
+python
+python
+python
+python
+
+Fill in the blank:
+text=&apos;python&apos;
+for i in _____
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(text)</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>2</question-type><answers><answer><text>range(6):</text><feedback>Correct</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>gameover = False
+while not(gameover):
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspgame_on
+
+What does the code tell?</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>4</question-type><answers><answer><text>while the condition of gameover is not False, keep the game on</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>while the condition of gameover is True, stop the game</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>while the condition of gameover is False, keep the game on.</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers><must-select-all>1</must-select-all></question-record><question-record><question>output:
+0
+1
+2
+3
+4
+
+count= 0
+stop = 5
+while __________
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(count)
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspcount += 1
+
+Fill in the blank. Hint: use &amp;#x003E; or &amp;#x003C; or == to compare</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>2</question-type><answers><answer><text>count&amp;#x003C;stop:</text><feedback>Correct</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>count &amp;#x003C; stop:</text><feedback>Correct</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>which one of the following while statement is correct?</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>while True</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>While True:</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>while True:</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>while True:
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&apos;hello&apos;)
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspbreak
+
+How many &apos;hello&apos; will be printed on the screen?</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>one</text><feedback>Correct. syntax break will break the loop</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>many</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>none</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>while True:
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&apos;hello&apos;)
+
+while True:
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&apos;world&apos;)
+
+what is output?</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>hello, repeated forever</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>hello then world then hello again repeated forever</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>world, repeated forever</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>while False:
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&apos;eggs&apos;)
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&apos;ham&apos;)
+
+what is the output?</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>eggs then ham</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>nothing printed</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>eggs</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>while True:
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&quot;hello&quot;)
+print(&quot;world&quot;)
+
+After Ctrl-C is pressed, the loop will break. What is the final output from the code?</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>hello</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>world</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>hello world</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>def main()
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspwhile True:
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&quot;Python&quot;)
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&quot;Script&quot;)
+
+Code above contains error, choose the correct one.</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>&amp;#x003C;br&amp;#x003E;
+def main():
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspwhile True:
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&quot;Python&quot;)
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&quot;Script&quot;)</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;br&amp;#x003E;
+def main():
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspwhile True:
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&quot;Python&quot;)
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&quot;Script&quot;)</text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text>&amp;#x003C;br&amp;#x003E;
+def main():
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspwhile True:
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&quot;Python&quot;)
+&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbsp&amp;#x0026;nbspprint(&quot;Script&quot;)</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question></question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle></exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correct!</guess-correct>
+<guess-incorrect>Sorry! Try again.</guess-incorrect>
+<partly-incorrect>Your answer is partly wrong: </partly-incorrect>
+<enter-a-guess>Please enter a guess.</enter-a-guess>
+<next-correct-letter>Next correct letter in the answer: </next-correct-letter>
+<correct-answers>Correct answers: </correct-answers>
+<show-answer-caption>Show answer</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>1</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>1</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Your score is </your-score-is>
+<correct-indicator>:-)</correct-indicator>
+<incorrect-indicator>X</incorrect-indicator>
+<correct-first-time>Questions answered correctly first time: </correct-first-time>
+<completed-so-far>Questions completed so far: </completed-so-far>
+<exercise-completed>You have completed the exercise.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>1</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>contents.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>&quot;Courier New&quot;,&quot;Lucida Console&quot;,Courier,Geneva,Arial,sans-serif</font-face>
+<font-size>medium</font-size>
+<page-bg-color>#ffffff</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#8080c0</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#000000</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+<correct-first-time>Questions answered correctly first time: </correct-first-time>
+<check-caption>Check</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>=&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;=</last-q-caption>
+<hint-caption>Hint</hint-caption>
+<show-all-questions-caption>Show all questions</show-all-questions-caption>
+<show-one-by-one-caption>Show questions one by one</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
